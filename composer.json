@@ -1,0 +1,17 @@
+{
+    "name": "natalijey/coin_keeper_backend",
+    "autoload": {
+        "psr-4": {
+            "Natalijey\\CoinKeeperBackend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NataliJey",
+            "email": "Natali23160@yandex.ru"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
